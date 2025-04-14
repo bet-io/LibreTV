@@ -1,6 +1,6 @@
 // 全局常量配置
 
-const PROXY_URL = 'https://jiexi.jimscloud.eu.org/m3u8filter';
+const PROXY_URL = 'https://jiexi.jimscloud.eu.org/';
 const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
