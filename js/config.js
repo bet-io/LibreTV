@@ -110,10 +110,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    gszy: {
-        api: 'https://api.guangsuapi.com/api.php/provide/vod',
-        name: '光速资源'
-    },
     tpzy: {
         api: 'https://taopianapi.com/cjapi/mc/vod',
         name: '淘片资源'
@@ -129,10 +125,6 @@ const API_SITES = {
     lzzy: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源'
-    },
-    xlzy: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源'
     },
     kczy: {
         api: 'https://caiji.kuaichezy.org/api.php/provide/vod',
